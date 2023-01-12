@@ -1,0 +1,25 @@
+{
+  "name": "qap-1-s3",
+  "version": "1.0.0",
+  "description": "Hey im Devin this is my first QAP of semester 3 in FullStack JavaScript programming, i cant wait to learn and expand my knowlegde more this semester.",
+  "main": "event.js",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevinAugot/QAP-1-S3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevinAugot/QAP-1-S3/issues"
+  },
+  "homepage": "https://github.com/DevinAugot/QAP-1-S3#readme"
+}
