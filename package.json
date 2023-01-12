@@ -1,8 +1,8 @@
 {
-  "name": "global-objs",
+  "name": "qap-1-s3",
   "version": "1.0.0",
-  "description": "Using Globals",
-  "main": "globals.js",
+  "description": "Hey im Devin this is my first QAP of semester 3 in FullStack JavaScript programming, i cant wait to learn and expand my knowlegde more this semester.",
+  "main": "event.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/DevinAugot/QAP-1-S3.git"
   },
-  "author": "Devin Augot",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DevinAugot/QAP-1-S3/issues"
