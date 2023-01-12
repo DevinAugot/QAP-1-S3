@@ -1,7 +1,7 @@
 {
   "name": "qap-1-s3",
   "version": "1.0.0",
-  "description": "Hey im Devin this is my first QAP of semester 3 in FullStack JavaScript programming, i cant wait to learn and expand my knowlegde more this semester.",
+  "description": "Node.js globals and packages",
   "main": "event.js",
   "dependencies": {
     "http": "^0.0.1-security",
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/DevinAugot/QAP-1-S3.git"
   },
-  "author": "",
+  "author": "Devin Augot",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DevinAugot/QAP-1-S3/issues"
